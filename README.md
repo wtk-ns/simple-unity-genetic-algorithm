@@ -8,7 +8,8 @@ You have got a creature, witch must have:
 	<li>BotHead - the part by which it is determined whether the creature has reached the goal or not</li>
 	<li>BotPart - the part, which have controlled joint
 </ul>
-In the prefabs directory you can find creature's prefab. The creature's prefab can be changed as you wish, but it should be afraid to have parts and a head. 
+In the prefabs directory you can find creature's prefab. The creature's prefab can be changed as you wish, but it should have parts and a head. 
+<br>
 <br>
 Population size, distance, max angles of joints and other - you can set in the BotProperties.cs
 <br>
