@@ -15,8 +15,9 @@ Population size, distance, max angles of joints and other - you can set in the B
 <br>
 By default - the main task of the creature is to go as far as possible
 <br> 
+<br>
 By playing with mistakePossibility variable - you can change mutation possibility in population. Too low probability of an error will lead to finding 
-a local minimum, therefore it is not recommended to set it below 0.1.
+a local minimum, therefore it is not recommended to set it below 0.1f
 
 <h3>Techs</h3>
 <ul>
